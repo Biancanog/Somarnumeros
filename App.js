@@ -5,6 +5,8 @@ const App = ()=> {
    const [inputValues, setInputValues] = useState({
    input1: '',  
    input2: '',
+   input3: '',
+   
    });
 
    const[sum, setsum] = useState(0);  
